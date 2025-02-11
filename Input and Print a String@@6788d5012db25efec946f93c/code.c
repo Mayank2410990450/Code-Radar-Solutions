@@ -1,7 +1,7 @@
 #include <stdio.h>
-
-char[25]= x;
 int main() {
+    
+char[25]= x;
     printf("");
     scanf("%s",&x);
 
