@@ -5,6 +5,6 @@ char x[25];
     printf("");
     scanf("%s",&x);
 
-    printf("You Entered %s", x);
+    printf("You entered: %s", x);
     return 0;
 }
