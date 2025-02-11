@@ -1,9 +1,10 @@
 #include <stdio.h>
 
 int main() {
-    char x[25],y[25],z[25];
-    scanf("%c %c %c "&x, &y,&z);
+    char x[25],z[25];
+    int y;
+    scanf("%c %d %c "&x, &y,&z);
 
-    printf("Name: %s/nAge: %s\nHobby: %s", );
+    printf("Name: %s/nAge: %d\nHobby: %s",x,y,z );
     return 0;
 }
