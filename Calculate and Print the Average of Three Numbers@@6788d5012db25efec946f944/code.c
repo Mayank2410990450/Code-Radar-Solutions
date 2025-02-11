@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main() {
-    float x,y,z,c;
+    int x,y,z;
+    float c;
     scanf("%d %d %d ",&x ,&y, &z);
     c=(x+y+z)/3;
 
