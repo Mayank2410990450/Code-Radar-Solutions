@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-    int x,y,z;
+    float x,y,z;
     printf("");
     scanf("%.2f %.2f",&x ,&y);
     z=x*y;
