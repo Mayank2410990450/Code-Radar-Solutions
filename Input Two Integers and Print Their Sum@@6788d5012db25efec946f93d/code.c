@@ -3,10 +3,11 @@
 
 
 int main() {
-    int x,y
+    int x,y,sum;
     printf("");
     scanf("%d %d",&x &y);
+    sum=x+y;
     
-    printf("%d %d", x,y);
+    printf("Sum: %d",sum);
     return 0;
 }
