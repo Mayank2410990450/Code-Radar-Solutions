@@ -3,7 +3,7 @@
 int main() {
     char x[25],z[25];
     int y;
-    scanf("%c %d %c "&x, &y,&z);
+    scanf("%s %d %s "&x, &y,&z);
 
     printf("Name: %s/nAge: %d\nHobby: %s",x,y,z );
     return 0;
