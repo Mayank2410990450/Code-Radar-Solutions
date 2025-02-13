@@ -1,0 +1,19 @@
+// Your code here...
+#include<stdio.h>
+int main()
+{
+    int x;
+    if(x>0);
+    {
+        printf("Postive");
+    }
+    else if(x=0)
+    {
+        printf("Zero");
+    }
+    else
+    {
+        printf("Negative");
+    }
+
+}
