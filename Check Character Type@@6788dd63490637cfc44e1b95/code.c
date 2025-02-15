@@ -12,6 +12,6 @@ int main()
       {
         printf("Vowel");
     }
-    else if()
+    
     
 }
