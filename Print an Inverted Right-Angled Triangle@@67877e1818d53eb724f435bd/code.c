@@ -1,5 +1,5 @@
 // Your code here...
-#Include<stdio.h>
+#include<stdio.h>
 int main()
 {
     int x,i;
