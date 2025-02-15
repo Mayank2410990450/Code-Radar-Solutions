@@ -4,15 +4,15 @@ int main()
 {
     int x,i;
     scanf("%d",&x);
-    for(i=0;i<x;i++)
-    {
-        printf("*");
-        printf(" ");
+    // for(i=0;i<x;i++)
+    // {
+    //     printf("*");
+    //     printf(" ");
         
-        // for(int j=0;j<=i;j++)
-        // {
-        //     printf("\n*");
-        // }
+        for(int j=0;j<=5;j++)
+        {
+            printf("\n*");
+        }
         
-    }
+    // }
 }
