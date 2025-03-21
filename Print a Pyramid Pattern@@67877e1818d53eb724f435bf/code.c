@@ -8,7 +8,7 @@ int main() {
     for (int i = 0; i < n; i++) {
         // Print spaces for alignment
         for (int j = 0; j < n - i - 1; j++) {
-            printf("m");
+            printf(" ");
         }
 
         // Print stars in pyramid shape
