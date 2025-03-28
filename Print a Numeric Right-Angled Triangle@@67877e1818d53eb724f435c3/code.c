@@ -8,7 +8,8 @@ int main()
     {
         for (int j = 1; j <= i; j++)
         {
-            printf("n%d", j);
+            printf("%d", j);
+            printf(" ");
         }
         printf("\n"); // Move to the next line after printing each row
     }
