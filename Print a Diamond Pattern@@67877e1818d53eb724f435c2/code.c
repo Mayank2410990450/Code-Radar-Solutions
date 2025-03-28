@@ -14,10 +14,10 @@ int main()
         {
             printf("*");
         }
-         for (int i = n - 1; i >= 1; i--)
+         for (int i = x - 1; i >= 1; i--)
     {
         // Printing spaces
-        for (int j = n; j > i; j--)
+        for (int j = x; j > i; j--)
         {
             printf(" ");
         }
