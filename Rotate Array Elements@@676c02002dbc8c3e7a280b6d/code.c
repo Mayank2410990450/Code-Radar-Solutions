@@ -11,7 +11,7 @@ int main()
     scanf("%d",&k);
     for(int i=n;i>=1;i--)
     {
-        for(int j=k;j>=i;j--)
+        for(int j=k;j>=i;j++)
         {
             printf("%d",arr1[j]);
 
