@@ -7,7 +7,7 @@ int main()
     for (int i = 1; i <= x; i++) // Outer loop for rows
     {
         // Printing leading spaces
-        for (int j = i; j <= x; j++)
+        for (int j = i; j < x; j++)
         {
             printf(" ");
         }
