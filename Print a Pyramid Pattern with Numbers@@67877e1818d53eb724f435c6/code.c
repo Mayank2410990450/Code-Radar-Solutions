@@ -9,7 +9,7 @@ int main()
         // Printing leading spaces
         for (int j = i; j <= x; j++)
         {
-            printf(" ");
+            printf("m ");
         }
 
         // Printing numbers
