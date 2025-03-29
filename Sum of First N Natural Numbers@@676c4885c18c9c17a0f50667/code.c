@@ -2,8 +2,9 @@
 #include<stdio.h>
 int main()
 {
-    scanf("%d",&x);
+    
     int x,sum=0;
+    scanf("%d",&x);
     for(int i=0;i<=x;i++)
     {
         sum+=i;
