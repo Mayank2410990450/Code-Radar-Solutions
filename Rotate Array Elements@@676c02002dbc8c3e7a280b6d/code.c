@@ -4,12 +4,12 @@ int main()
 {
     int k,arr1[100],n;
     scanf("%d",&n);
-    for(int i=0;i<=n;i++)
+    for(int i=0;i<n;i++)
     {
         scanf("%d",&arr1[i]);
     }
     scanf("%d",&k);
-    for(int i=k;i>=1;i--)
+    for(int i=arr1[i];i>=1;i--)
     {
         for(int j=k;j>=i;j++)
         {
