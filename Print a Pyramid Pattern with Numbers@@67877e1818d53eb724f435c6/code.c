@@ -9,13 +9,14 @@ int main()
         // Printing leading spaces
         for (int j = i; j <= x; j++)
         {
-            printf("m");
+            printf(" ");
         }
 
         // Printing numbers
         for (int j = 1; j <= i; j++)
         {
             printf("%d", j);
+            printf(" ");
         }
 
         printf("\n");
