@@ -10,7 +10,7 @@ int main()
         {
             printf(" ");
         }
-        for(char j='A';j<=i;j++)
+        for(char j='A';j<='A'+i;j++)
         {
             printf("%c",j);
         }
