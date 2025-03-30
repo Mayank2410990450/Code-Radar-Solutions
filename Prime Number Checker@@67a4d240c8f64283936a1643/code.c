@@ -2,7 +2,7 @@
 // Your code here...
 void isPrime(int num)
 {
-    if(x==1 || x==0)
+    if(num==1 || num==0)
     {
         printf("%d",x);
     }
